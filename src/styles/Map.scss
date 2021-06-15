@@ -1,0 +1,12 @@
+#map-container{
+    top: -100px;
+    z-index: -1;
+
+    #mapid {
+        height: 90vh;
+    }
+
+    .leaflet-container{
+        height: 90vh;
+    }
+}
